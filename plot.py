@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-f = open("out.csv")
+f = open("spikeWindow.txt")
 
 values = f.read().splitlines()
 
